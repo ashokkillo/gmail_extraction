@@ -6,8 +6,8 @@ from tqdm import tqdm
 
 
 
-user = 'ashok4recruiting@gmail.com' # Input your gmail address here
-password = 'mcdwvcwcnnyrdzby' # Input your gmail password here
+user = 'user email' # Input your gmail address here
+password = 'password' # Input your gmail password here
 imap_url = 'imap.gmail.com'
 
 my_mail = imaplib.IMAP4_SSL(imap_url) # connect to gmail
